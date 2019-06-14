@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fenric1994%2Fcube)
+
 Some sketches I recovered from 2015, when I started to dig into the world of OOP (Object Oriented Programming). I'm still impressed by the effort I put into such a silly idea.
 
 At this time, I was in the second year of my Telecommunications degree, so I had some knowledge about the FFT (Fast Fourier Transform). What happens when the objects programming and the fourier transformation are mixed in the head of a young 20-years-old engineer? The answer is: **CUBES**.
