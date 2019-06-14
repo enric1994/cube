@@ -12,9 +12,9 @@ Use the keys Q-W-A-S-Z-X to interact.
 
 ## Video 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eBuQEjoUfYg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBuQEjoUfYg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ## Video 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3cdb_Y5-BWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cdb_Y5-BWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
