@@ -12,8 +12,9 @@ Use the keys Q-W-A-S-Z-X to interact.
 
 ## Video 1
 
-[![ScreenShot](https://github.com/enric1994/cube/blob/master/images/cube_2.png)](https://www.youtube.com/watch?v=eBuQEjoUfYg&t=40s)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eBuQEjoUfYg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Video 2
 
-[![ScreenShot](https://github.com/enric1994/cube/blob/master/images/video2.png)](https://www.youtube.com/watch?v=3cdb_Y5-BWQ&t=39s)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3cdb_Y5-BWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
